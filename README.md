@@ -86,16 +86,7 @@ Pequeños proyectos de machine learning ejecutados completamente en local.
 - **Español:** nativo.
 - **Inglés:** nivel A2 (lectura técnica sin problemas).
 
----
 
-## 📊 Mi actividad en GitHub
-
-<div align="center">
-  <img height="180em" src="https://github.com/rlnids/For-Casting-Ventas.git/>
-  <img height="180em" src="https://github.com/rlnids/Agenda.git"/>
-</div>
-
----
 
 ## 📬 ¿Buscas un desarrollador con pasión, constancia y muchas horas de pantalla?
 
