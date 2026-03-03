@@ -91,8 +91,8 @@ Pequeños proyectos de machine learning ejecutados completamente en local.
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlnids&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlnids&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github.com/rlnids/For-Casting-Ventas.git/>
+  <img height="180em" src="https://github.com/rlnids/Agenda.git"/>
 </div>
 
 ---
